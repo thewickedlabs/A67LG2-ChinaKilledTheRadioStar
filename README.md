@@ -2,7 +2,7 @@
 
 FM radio through the speaker, no headphones needed.
 
-A KernelSU Next module for the **Foxxd A67L Gen 2**.
+A KernelSU Next module for the **Foxxd A67L Gen 2**. Gen 1 version: [A67LG1-ChinaKilledTheRadioStar](https://github.com/thewickedlabs/A67LG1-ChinaKilledTheRadioStar).
 
 The FM radio normally needs wired headphones as an antenna. This module turns on the phone's built-in
 short-antenna mode, so the radio plays through the speaker on its own. Reception uses the internal
